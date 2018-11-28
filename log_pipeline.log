@@ -1,0 +1,1780 @@
+-formatfasta-file>vir_GCA_000478325/tmp/blast_virulence_ent.fsa-file>vir_GCA_000478325/tmp/blast_virulence_ent.fsa.blastpipe-formatfastaTerminated
+WARNING 2018-11-27 12:06:52,454 : Exception: <class 'xml.parsers.expat.ExpatError'> -> no element found: line 245690, column 0 -> model_type: variant
+WARNING 2018-11-27 12:06:52,748 : Exception: <class 'xml.parsers.expat.ExpatError'> -> no element found: line 245690, column 0 -> model_type: overexpression
+WARNING 2018-11-27 12:07:00,615 : Exception: <class 'xml.parsers.expat.ExpatError'> -> no element found: line 245690, column 0 -> model_type: homolog
+-file>vir_GCA_000407045/tmp/blast_virulence_ent.fsa-formatfasta-formatfasta-file>vir_GCA_000407045/tmp/blast_virulence_ent.fsa.blastpipe-file>vir_GCA_000395135/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000395135/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-formatfasta-file>vir_GCA_000393595/tmp/blast_virulence_ent.fsa-file>vir_GCA_000393595/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-formatfasta-file>vir_GCA_000392955/tmp/blast_virulence_ent.fsa-file>vir_GCA_000392955/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-formatfasta-file>vir_GCA_000393135/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000393135/tmp/blast_virulence_ent.fsa.blastpipe-file>vir_P51/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_P51/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-file>vir_GCA_000393115/tmp/blast_virulence_ent.fsa-formatfasta-formatfasta-file>vir_GCA_000393115/tmp/blast_virulence_ent.fsa.blastpipe-file>vir_GCA_000393035/tmp/blast_virulence_ent.fsa-formatfasta-formatfasta-file>vir_GCA_000393035/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-file>vir_GCA_000394075/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000394075/tmp/blast_virulence_ent.fsa.blastpipe-file>vir_GCA_000393235/tmp/blast_virulence_ent.fsa-formatfasta-formatfasta-file>vir_GCA_000393235/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-file>vir_GCA_000393335/tmp/blast_virulence_ent.fsa-file>vir_GCA_000393335/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-file>vir_GCA_000393355/tmp/blast_virulence_ent.fsa-formatfasta-formatfasta-file>vir_GCA_000393355/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-file>vir_GCA_000395095/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000395095/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-file>vir_GCA_000161875/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000161875/tmp/blast_virulence_ent.fsa.blastpipe-file>vir_GCA_000172575/tmp/blast_virulence_ent.fsa-formatfasta-formatfasta-file>vir_GCA_000172575/tmp/blast_virulence_ent.fsa.blastpipeGCA_000478325.1_Ente_faec_T15_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000478325.1_Ente_faec_T15_V1_genomic.fna
+
+running virulence analysis for GCA_000478325...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000478325...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000407045.1_Ente_faec_V583_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000407045.1_Ente_faec_V583_V1_genomic.fna
+
+running virulence analysis for GCA_000407045...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000407045...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000395135.1_Ente_faec_T21_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000395135.1_Ente_faec_T21_V1_genomic.fna
+
+running virulence analysis for GCA_000395135...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000395135...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000393595.1_Ente_faec_T4_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000393595.1_Ente_faec_T4_V1_genomic.fna
+
+running virulence analysis for GCA_000393595...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000393595...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000392955.1_Ente_faec_ATCC_35038_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000392955.1_Ente_faec_ATCC_35038_V1_genomic.fna
+
+running virulence analysis for GCA_000392955...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000392955...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000393135.1_Ente_faec_RMC1_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000393135.1_Ente_faec_RMC1_V1_genomic.fna
+
+running virulence analysis for GCA_000393135...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000393135...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+P51.fasta
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/P51.fasta
+
+running virulence analysis for P51...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for P51...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000393115.1_Ente_faec_SS-7_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000393115.1_Ente_faec_SS-7_V1_genomic.fna
+
+running virulence analysis for GCA_000393115...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000393115...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000393035.1_Ente_faec_T9_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000393035.1_Ente_faec_T9_V1_genomic.fna
+
+running virulence analysis for GCA_000393035...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000393035...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000394075.1_Ente_faec_SF24397_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000394075.1_Ente_faec_SF24397_V1_genomic.fna
+
+running virulence analysis for GCA_000394075...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000394075...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000393235.1_Ente_faec_Merz151_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000393235.1_Ente_faec_Merz151_V1_genomic.fna
+
+running virulence analysis for GCA_000393235...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000393235...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000393335.1_Ente_faec_B653_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000393335.1_Ente_faec_B653_V1_genomic.fna
+
+running virulence analysis for GCA_000393335...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000393335...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000393355.1_Ente_faec_D173_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000393355.1_Ente_faec_D173_V1_genomic.fna
+
+running virulence analysis for GCA_000393355...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000393355...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000395095.1_Ente_faec_YI6-1_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000395095.1_Ente_faec_YI6-1_V1_genomic.fna
+
+running virulence analysis for GCA_000395095...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000395095...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000161875.1_ASM16187v1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000161875.1_ASM16187v1_genomic.fna
+
+running virulence analysis for GCA_000161875...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000161875...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000172575.2_ASM17257v2_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000172575.2_ASM17257v2_genomic.fna
+
+running virulence analysis for GCA_000172575...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000172575...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+P910.fasta
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/P910.fasta
+
+running virulence analysis for P910...
+-file>vir_P910/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_P910/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-formatfasta-file>vir_GCA_000157415/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000157415/tmp/blast_virulence_ent.fsa.blastpipe-file>vir_GCA_000394975/tmp/blast_virulence_ent.fsa-formatfasta-formatfasta-file>vir_GCA_000394975/tmp/blast_virulence_ent.fsa.blastpipe-file>vir_GCA_000393635/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000393635/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-file>vir_GCA_000157475/tmp/blast_virulence_ent.fsa-formatfasta-formatfasta-file>vir_GCA_000157475/tmp/blast_virulence_ent.fsa.blastpipe-file>vir_GCA_000393155/tmp/blast_virulence_ent.fsa-formatfasta-formatfasta-file>vir_GCA_000393155/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-file>vir_P81/tmp/blast_virulence_ent.fsa-file>vir_P81/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-formatfasta-file>vir_GCA_000157135/tmp/blast_virulence_ent.fsa-file>vir_GCA_000157135/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-formatfasta-file>vir_GCA_000393315/tmp/blast_virulence_ent.fsa-file>vir_GCA_000393315/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-file>vir_GCA_000157315/tmp/blast_virulence_ent.fsa-formatfasta-formatfasta-file>vir_GCA_000157315/tmp/blast_virulence_ent.fsa.blastpipe-file>vir_P52/tmp/blast_virulence_ent.fsa-formatfasta-formatfasta-file>vir_P52/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-file>vir_GCA_000395175/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000395175/tmp/blast_virulence_ent.fsa.blastpipe-file>vir_GCA_000393295/tmp/blast_virulence_ent.fsa-formatfasta-formatfasta-file>vir_GCA_000393295/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-file>vir_GCA_000392895/tmp/blast_virulence_ent.fsa-file>vir_GCA_000392895/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-formatfasta-file>vir_GCA_000393395/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000393395/tmp/blast_virulence_ent.fsa.blastpipe-file>vir_P817/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_P817/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-formatfasta-file>vir_GCA_000393015/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000393015/tmp/blast_virulence_ent.fsa.blastpipe
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for P910...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000157415.1_ASM15741v1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000157415.1_ASM15741v1_genomic.fna
+
+running virulence analysis for GCA_000157415...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000157415...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000394975.1_Ente_faec_T16_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000394975.1_Ente_faec_T16_V1_genomic.fna
+
+running virulence analysis for GCA_000394975...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000394975...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000393635.1_Ente_faec_T7_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000393635.1_Ente_faec_T7_V1_genomic.fna
+
+running virulence analysis for GCA_000393635...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000393635...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000157475.1_ASM15747v1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000157475.1_ASM15747v1_genomic.fna
+
+running virulence analysis for GCA_000157475...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000157475...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000393155.1_Ente_faec_T19_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000393155.1_Ente_faec_T19_V1_genomic.fna
+
+running virulence analysis for GCA_000393155...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000393155...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+P81.fasta
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/P81.fasta
+
+running virulence analysis for P81...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for P81...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000157135.1_ASM15713v1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000157135.1_ASM15713v1_genomic.fna
+
+running virulence analysis for GCA_000157135...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000157135...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000393315.1_Ente_faec_RMC65_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000393315.1_Ente_faec_RMC65_V1_genomic.fna
+
+running virulence analysis for GCA_000393315...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000393315...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000157315.1_ASM15731v1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000157315.1_ASM15731v1_genomic.fna
+
+running virulence analysis for GCA_000157315...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000157315...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+P52.fasta
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/P52.fasta
+
+running virulence analysis for P52...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for P52...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000395175.1_Ente_faec_Com1_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000395175.1_Ente_faec_Com1_V1_genomic.fna
+
+running virulence analysis for GCA_000395175...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000395175...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000393295.1_Ente_faec_TR197_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000393295.1_Ente_faec_TR197_V1_genomic.fna
+
+running virulence analysis for GCA_000393295...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000393295...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000392895.1_Ente_faec_T12_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000392895.1_Ente_faec_T12_V1_genomic.fna
+
+running virulence analysis for GCA_000392895...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000392895...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000393395.1_Ente_faec_ATCC_10100_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000393395.1_Ente_faec_ATCC_10100_V1_genomic.fna
+
+running virulence analysis for GCA_000393395...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000393395...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+P817.fasta
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/P817.fasta
+
+running virulence analysis for P817...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for P817...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000393015.1_Ente_faec_T5_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000393015.1_Ente_faec_T5_V1_genomic.fna
+
+running virulence analysis for GCA_000393015...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000393015...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000157275.1_ASM15727v1_genomic.fna-file>vir_GCA_000157275/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000157275/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-file>vir_GCA_000392995/tmp/blast_virulence_ent.fsa-formatfasta-formatfasta-file>vir_GCA_000392995/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-file>vir_GCA_000393055/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000393055/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-file>vir_GCA_000393215/tmp/blast_virulence_ent.fsa-file>vir_GCA_000393215/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-file>vir_GCA_000157395/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000157395/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-formatfasta-file>vir_GCA_000392935/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000392935/tmp/blast_virulence_ent.fsa.blastpipe-file>vir_GCA_000505585/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000505585/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-formatfasta-file>vir_GCA_000157175/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000157175/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-file>vir_GCA_000393375/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000393375/tmp/blast_virulence_ent.fsa.blastpipe-file>vir_P26/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_P26/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-file>vir_P920/tmp/blast_virulence_ent.fsa-formatfasta-formatfasta-file>vir_P920/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-file>vir_GCA_000394235/tmp/blast_virulence_ent.fsa-file>vir_GCA_000394235/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-formatfasta-file>vir_GCA_000393075/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000393075/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-file>vir_GCA_000393175/tmp/blast_virulence_ent.fsa-file>vir_GCA_000393175/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-formatfasta-file>vir_GCA_000393195/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000393195/tmp/blast_virulence_ent.fsa.blastpipe-file>vir_GCA_000392855/tmp/blast_virulence_ent.fsa-formatfasta-formatfasta-file>vir_GCA_000392855/tmp/blast_virulence_ent.fsa.blastpipe
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000157275.1_ASM15727v1_genomic.fna
+
+running virulence analysis for GCA_000157275...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000157275...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000392995.1_Ente_faec_T17_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000392995.1_Ente_faec_T17_V1_genomic.fna
+
+running virulence analysis for GCA_000392995...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000392995...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000393055.1_Ente_faec_T10_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000393055.1_Ente_faec_T10_V1_genomic.fna
+
+running virulence analysis for GCA_000393055...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000393055...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000393215.1_Ente_faec_Fly_2_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000393215.1_Ente_faec_Fly_2_V1_genomic.fna
+
+running virulence analysis for GCA_000393215...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000393215...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000157395.1_ASM15739v1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000157395.1_ASM15739v1_genomic.fna
+
+running virulence analysis for GCA_000157395...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000157395...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000392935.1_Ente_faec_RMC5_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000392935.1_Ente_faec_RMC5_V1_genomic.fna
+
+running virulence analysis for GCA_000392935...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000392935...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000505585.1_E._faecalis_PF3_draft_genome_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000505585.1_E._faecalis_PF3_draft_genome_genomic.fna
+
+running virulence analysis for GCA_000505585...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000505585...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000157175.1_ASM15717v1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000157175.1_ASM15717v1_genomic.fna
+
+running virulence analysis for GCA_000157175...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000157175...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000393375.1_Ente_faec_ATCC_6055_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000393375.1_Ente_faec_ATCC_6055_V1_genomic.fna
+
+running virulence analysis for GCA_000393375...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000393375...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+P26.fasta
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/P26.fasta
+
+running virulence analysis for P26...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for P26...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+P920.fasta
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/P920.fasta
+
+running virulence analysis for P920...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for P920...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000394235.1_Ente_faec_T14_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000394235.1_Ente_faec_T14_V1_genomic.fna
+
+running virulence analysis for GCA_000394235...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000394235...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000393075.1_Ente_faec_T18_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000393075.1_Ente_faec_T18_V1_genomic.fna
+
+running virulence analysis for GCA_000393075...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000393075...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000393175.1_Ente_faec_39-5_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000393175.1_Ente_faec_39-5_V1_genomic.fna
+
+running virulence analysis for GCA_000393175...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000393175...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000393195.1_Ente_faec_B-4-111_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000393195.1_Ente_faec_B-4-111_V1_genomic.fna
+
+running virulence analysis for GCA_000393195...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000393195...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000392855.1_Ente_faec_T20_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000392855.1_Ente_faec_T20_V1_genomic.fna
+
+running virulence analysis for GCA_000392855...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000392855...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000157335.1_ASM15733v1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000157335.1_ASM15733v1_genomic.fna
+
+running virulence analysis for GCA_000157335...
+
+Selected  VirulenceFinder  for genome analysis...-formatfasta-file>vir_GCA_000157335/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000157335/tmp/blast_virulence_ent.fsa.blastpipe-file>vir_GCA_000392915/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000392915/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-formatfasta-file>vir_GCA_000392975/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000392975/tmp/blast_virulence_ent.fsa.blastpipe-file>vir_GCA_000157455/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000157455/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-file>vir_GCA_000393255/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000393255/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-formatfasta-file>vir_GCA_000392875/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000392875/tmp/blast_virulence_ent.fsa.blastpipe-file>vir_GCA_000157195/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_GCA_000157195/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-file>vir_P58/tmp/blast_virulence_ent.fsa-formatfasta-file>vir_P58/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-formatfasta-file>vir_GCA_000393275/tmp/blast_virulence_ent.fsa-file>vir_GCA_000393275/tmp/blast_virulence_ent.fsa.blastpipe-formatfasta-file>vir_GCA_000157155/tmp/blast_virulence_ent.fsa-formatfasta-formatfasta-file>vir_GCA_000157155/tmp/blast_virulence_ent.fsa.blastpipe
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000157335...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000392915.1_Ente_faec_D3_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000392915.1_Ente_faec_D3_V1_genomic.fna
+
+running virulence analysis for GCA_000392915...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000392915...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000392975.1_Ente_faec_T6_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000392975.1_Ente_faec_T6_V1_genomic.fna
+
+running virulence analysis for GCA_000392975...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000392975...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000157455.1_ASM15745v1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000157455.1_ASM15745v1_genomic.fna
+
+running virulence analysis for GCA_000157455...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000157455...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000393255.1_Ente_faec_SF339_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000393255.1_Ente_faec_SF339_V1_genomic.fna
+
+running virulence analysis for GCA_000393255...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000393255...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000392875.1_Ente_faec_ATCC_19433_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000392875.1_Ente_faec_ATCC_19433_V1_genomic.fna
+
+running virulence analysis for GCA_000392875...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000392875...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000157195.1_ASM15719v1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000157195.1_ASM15719v1_genomic.fna
+
+running virulence analysis for GCA_000157195...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000157195...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+P58.fasta
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/P58.fasta
+
+running virulence analysis for P58...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for P58...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000393275.1_Ente_faec_Com7_V1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000393275.1_Ente_faec_Com7_V1_genomic.fna
+
+running virulence analysis for GCA_000393275...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000393275...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+GCA_000157155.1_ASM15715v1_genomic.fna
+/home/icaro/Documentos/IC/enteromar/analise_genomas_filogenia/genomas/GCA_000157155.1_ASM15715v1_genomic.fna
+
+running virulence analysis for GCA_000157155...
+
+Selected  VirulenceFinder  for genome analysis...
+
+Starting Virulence Finder Data Analysis...
+
+
+
+
+Virulence Finder Data Analysis finished...
+
+
+
+
+running virulence analysis for GCA_000157155...
+
+Selected  RGI  for genome analysis...
+
+Starting RGI Data Analysis...
+
+
+
+
+RGI Data Analysis finished...
+
+
+
+
+all genomes processed...
+
+
+pipeline finished!
+
